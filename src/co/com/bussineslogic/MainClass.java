@@ -59,7 +59,7 @@ public class MainClass {
 
         Aprendiz juan = new Aprendiz();
         juan.setId(3000);
-        juan.setNombres("Juan");
+        juan.setNombres("Maria");
         juan.setApellidos("Mejia");
         juan.setTelefono("3322345");
 
